@@ -16,9 +16,12 @@
     "@mui/styles": "^5.10.7",
     "@sanity/client": "^3.4.1",
     "@sanity/image-url": "^1.0.1",
+    "axios": "^0.27.2",
     "init": "^0.1.2",
     "js-cookie": "^3.0.1",
     "next": "12.3.1",
+    "next-connect": "^0.13.0",
+    "notistack": "^2.0.5",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "sanity": "^2.33.2"
